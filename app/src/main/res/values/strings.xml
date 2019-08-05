@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelMantics</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="save_menu">save</string>
+    <string name="title_activity_list">TravelMantics</string>
+    <string name="title_activity_deal">DealActivity</string>
+</resources>
